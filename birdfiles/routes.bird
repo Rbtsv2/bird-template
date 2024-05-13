@@ -1,0 +1,11 @@
+route("/")
+    return "index.html", "PageTitle=Bienvenue"
+
+route("/contact")
+    return "contact.html"
+
+route("/faq")
+    return "faq.html"
+
+route("/about")
+    return "about.html"
