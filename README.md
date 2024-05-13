@@ -1,4 +1,4 @@
-# Bird Language Server
+# Bird Template
 
 Le projet "Bird Template" est un framework développé pour faciliter la création de sites web. Il repose sur "Bird Server" pour l'interprétation des scripts .bird, qui permettent de définir les routes, la logique métier, et la gestion des vues. Ce framework est idéal pour les développeurs souhaitant construire des applications web structurées et modulaires en utilisant le langage spécifique Bird.
 
